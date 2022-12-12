@@ -1,5 +1,5 @@
-Olá, me chamo Severiano Neto 👋
-## Bem-vindo/a/e ao meu perfil do GitHub!
+## Olá, me chamo Severiano Neto 👋
+## Bem-vindo ao meu perfil do GitHub!
 
 :pushpin: Estou no momento me dedicando a estudar desenvolvimento back-end em Java, além de conexão com o banco de dados e Spring Framework
 :pushpin: Tenho conhecimentos em SQL pelo PostgreSQL
@@ -14,9 +14,9 @@ Olá, me chamo Severiano Neto 👋
 </div>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/severianoneto3">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/severianoneto3/blob/output/github-contribution-grid-snake.svg)
