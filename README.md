@@ -4,7 +4,7 @@
 :pushpin: Estou no momento me dedicando a estudar desenvolvimento back-end em Java, além de conexão com o banco de dados e Spring Framework
 :pushpin: Tenho conhecimentos em SQL pelo PostgreSQL
 :pushpin: Estou em desenvolvimento e constante aprendizado, realizando cursos
-:pushpin: Faço parte do 1000DEVs, programa de capacitação de profissionais em Tech, organizado pela mesttra. em parceria com a Johnson&Johnson.
+:pushpin: Fiz parte do 1000DEVs, programa de capacitação de profissionais em Tech, organizado pela mesttra. em parceria com a Johnson&Johnson.
 
 ## Contatos:
 
